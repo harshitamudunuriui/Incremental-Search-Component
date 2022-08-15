@@ -1,0 +1,1 @@
+export { IncrementalSearch } from './IncrementalSearch';
